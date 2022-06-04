@@ -8,6 +8,7 @@
             android:resizeableActivity="true"
             android:supportsPictureInPicture="true"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:exported="true"
             android:windowSoftInputMode="adjustResize">
         </activity>
     </application>
